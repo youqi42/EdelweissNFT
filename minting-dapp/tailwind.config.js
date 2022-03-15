@@ -18,6 +18,6 @@ module.exports = {
             errortxt: colors.white,
         }
     },
-    variants: {},
+variants: {},
     plugins: [],
 }
